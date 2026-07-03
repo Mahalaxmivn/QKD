@@ -186,7 +186,3 @@ Contributions to scale the repository—such as adding multi-state protocols, al
 This simulation is modeled on established theoretical security bounds established in quantum information science, drawing inspiration from:
 
 * *Security of Quantum Key Distribution Protocols* – Akshaya V., Mahalaxmi VN., Lekshmi Raman KV.
-
-```
-
-```
